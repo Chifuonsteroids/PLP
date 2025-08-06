@@ -16,7 +16,7 @@ if operation == "+":
 elif operation == "-":
     result = num1 - num2
     print(f"{num1} - {num2} = {result}")
-elif operation == "*":
+elif operation == "*": 
     result = num1 * num2
     print(f"{num1} * {num2} = {result}")
 elif operation == "/":
