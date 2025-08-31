@@ -5,5 +5,5 @@ scikit-learn
 pandas
 numpy
 requests
-google-api-python-client   # for Google Fact Check API
-newsapi-python             # for NewsAPI
+google-api-python-client
+newsapi-python
