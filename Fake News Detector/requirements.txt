@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+scikit-learn
+pandas
+numpy
+requests
+google-api-python-client   # for Google Fact Check API
+newsapi-python             # for NewsAPI
